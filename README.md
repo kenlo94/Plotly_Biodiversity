@@ -18,6 +18,7 @@ We were able to:
 4. Display the bacteria cultures per sample using a bubble graph.
 5. Display the washing frequency of the belly button using a gauge chart.
 
+![Screenshot](BB.png)
 
 ### Summary
 
